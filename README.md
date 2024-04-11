@@ -12,7 +12,7 @@ La gestion de l’énergie est un enjeu crucial dans notre monde moderne. Car el
 
    2. Analyse Fonctionelle 
 
-   3. Analyse Tchenique 
+   3. Analyse technique
 
    4. Conclusion
       
