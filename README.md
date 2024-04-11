@@ -18,7 +18,8 @@ La gestion de l’énergie est un enjeu crucial dans notre monde moderne. Car el
       
 ## 1. Introduction et objectifs 
 
-Un système de gestion de l’énergie domestique est une configuration sophistiquée conçue pour surveiller, contrôler et optimiser la consommation d’énergie au sein d’un foyer grâce à une technologie avancée. Ce système intègre des fonctionnalités telles que le suivi de la consommation d’énergie, le contrôle d’automatisation et la gestion en réseau. Son objectif principal est d’aider les propriétaires à gérer efficacement leur consommation d’énergie, conduisant finalement à une réduction des dépenses énergétiques et à une meilleure efficacité énergétique. Particulièrement dans le paysage actuel de transition énergétique, marqué par une dépendance croissante aux sources d’énergie renouvelables, les systèmes de gestion de l’énergie des maisons intelligentes jouent un rôle central dans la promotion de l’intelligence énergétique.
+Un système de gestion de l’énergie domestique est une configuration sophistiquée conçue pour surveiller, contrôler et optimiser la consommation d’énergie au sein d’un foyer grâce à une technologie avancée. Ce système intègre des fonctionnalités telles que le suivi de la consommation d’énergie, le contrôle d’automatisation et la gestion en réseau.  
+Son objectif principal est d’aider les propriétaires à gérer efficacement leur consommation d’énergie, conduisant finalement à une réduction des dépenses énergétiques et à une meilleure efficacité énergétique. Particulièrement dans le paysage actuel de transition énergétique, marqué par une dépendance croissante aux sources d’énergie renouvelables, les systèmes de gestion de l’énergie des maisons intelligentes jouent un rôle central dans la promotion de l’intelligence énergétique.
 
 **Objectifs de cette partie**
 
