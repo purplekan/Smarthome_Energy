@@ -6,22 +6,29 @@ La gestion de l’énergie est un enjeu crucial dans notre monde moderne. Car el
 
 
 
-## Sommaire 
+# Sommaire 
 
-1.Introduction
+   1. Introduction et objectifs 
 
-2.Liste du matériels 
+   2. Analyse Fonctionelle 
 
-3.Fonctionalités 
+   3. Analyse Tchenique 
 
-3.1.Mesure du Courant Consommé
+   4. Conclusion
+      
+## 1. Introduction et objectifs 
 
-3.2.Surveillance du Système Électrique
+Un système de gestion de l’énergie domestique est une configuration sophistiquée conçue pour surveiller, contrôler et optimiser la consommation d’énergie au sein d’un foyer grâce à une technologie avancée. Ce système intègre des fonctionnalités telles que le suivi de la consommation d’énergie, le contrôle d’automatisation et la gestion en réseau. Son objectif principal est d’aider les propriétaires à gérer efficacement leur consommation d’énergie, conduisant finalement à une réduction des dépenses énergétiques et à une meilleure efficacité énergétique. Particulièrement dans le paysage actuel de transition énergétique, marqué par une dépendance croissante aux sources d’énergie renouvelables, les systèmes de gestion de l’énergie des maisons intelligentes jouent un rôle central dans la promotion de l’intelligence énergétique.
 
-3.3.Automatisation et Contrôle
+## Objectifs de cette partie 
 
-3.4.Sécurité et Protection
+. Mesure du Courant Consommé
 
-4.Conclusion 
+. Surveillance du Système Électrique
+
+. Automatisation et Contrôle
+
+. Sécurité et Protection
+
 
 
