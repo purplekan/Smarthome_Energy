@@ -37,14 +37,14 @@ Un système de gestion de l’énergie domestique est une configuration sophisti
 
 ### 3.1. Liste du matériel utilisé
 
-| **COMPOSANTS**          | **QUANTITE** |
-|-------------------------|:------------:|
-| Carte Arduino           |      1       |
-| Capteurs ACS726         |              |
-|                         |              |
-|                         |              |             
-|                         |              |
-|                         |              |
+| **COMPOSANTS**                          | **QUANTITE** |
+|-----------------------------------------|:------------:|
+| Carte Arduino                           |      1       |
+| Module horloge (DS1302)                 |      1       |
+| Relais (220V - 12V)                     |      4       |
+| Pince ampèremétrique ACS712             |      4       |
+| Carte SD pour stocker les données (32)  |      1       |
+
 
 
 
