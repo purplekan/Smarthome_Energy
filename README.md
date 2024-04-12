@@ -1,4 +1,5 @@
 # Smarthome_Energy
+
 ## Documentation sur la Gestion d’Énergie dans la Smart House
 La gestion de l’énergie est un enjeu crucial dans notre monde moderne. Car elle contribue à la durabilité de notre planète , permet de réduire les coûts de revient de nos factures , garantit la fiabilité des systèmes électriques , assure le bon fonctionnement de tout appareils connectés , améliore le confort des occupants tout en  contribuant au confort et à la qualité de vie. Raison pour laquelle  la gestion de l’énergie est un pilier fondamental pour un avenir durable, économique et fiable.
 
@@ -22,7 +23,7 @@ Un système de gestion de l’énergie domestique est une configuration sophisti
   
 Son objectif principal est d’aider les propriétaires à gérer efficacement leur consommation d’énergie, conduisant finalement à une réduction des dépenses énergétiques et à une meilleure efficacité énergétique. Particulièrement dans le paysage actuel de transition énergétique, marqué par une dépendance croissante aux sources d’énergie renouvelables, les systèmes de gestion de l’énergie des maisons intelligentes jouent un rôle central dans la promotion de l’intelligence énergétique.
 
-**Objectifs de cette partie**
+**Objectifs**
 
 * Mesure du Courant Consommé
 
