@@ -36,6 +36,19 @@ Son objectif principal est d’aider les propriétaires à gérer efficacement l
 ## 2. Analyse fonctionnelle
 
 
+  | Fonctions | Rôle                                                           | Critères               | Niveau d'exigence                                                    |
+|-----------|----------------------------------------------------------------|------------------------|----------------------------------------------------------------------|
+| FP1       |                                                                |                        |                                                                      |
+| FP2       |                                                                |                        |                                                                      |
+| FP3       |                                                                |                        |                                                                      |
+| FP4       |                                                                |                        |                                                                      |
+| FP5       |                                                                |                        |                    
+|           |                                                                |                        |                                                                      |
+| FS1       |                                                                 |                                                                                              |
+| FS2       |                                                                |                        |                                                                      |
+| FS3       |                                                                |                        |                                                                                                                                                          |   
+
+
 ## 3. Analyse technique
 
 ### 3.1. Liste du matériel utilisé
