@@ -5,7 +5,7 @@ La gestion de l’énergie est un enjeu crucial dans notre monde moderne. Car el
 
 # Remerciements
 
-
+Nous exprimons notre profonde gratitude envers toutes les personnes qui ont contribué au succès de notre projet **Smarthome_Energy**. Nos salutations vont en premier lieu à notre responsable pédagogique, Madame Marrion CHERBLANC. Nous remercions chaleureusement la fondatrice, Madame Aimée MINO-MATOT, ainsi que le fondateur, Monsieur Marc MINO-MATOT. Nos salutations sont également adressées à Monsieur Eric DOGO, proviseur du lycée international Cours Lumière. Nous tenons à remercier ESEO FRANCE et ESEO TOGO pour leur parfaite collaboration. Nos remerciements s'adressent également au responsable du secrétariat ESEO FRANCE, ainsi qu'à Madame Emefa, responsable du secrétariat ESEO TOGO. Enfin, nous exprimons notre reconnaissance envers notre encadreur, Monsieur Justin HANKEM, ainsi que toutes les personnes qui ont contribué à la réussite de ce projet.
 
 # Sommaire 
 
