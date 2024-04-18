@@ -34,20 +34,41 @@ Son objectif principal est d’aider les propriétaires à gérer efficacement l
 * Sécurité et Protection
 
 ## 2. Analyse fonctionnelle
+  
+
+| Fonctionnalité                                                | Statut   |
+|---------------------------------------------------------------|:--------:|
+| Surveillance de la consommation                                |   🔴     |
+| Analyse des habitudes de consommation                         |   🟠     |
+| Prédiction de la consommation future                           |   🟡     |
+| Contrôle de la distribution                                    |   🔴     |
+| Envoi d’alerte en cas de consommation anormale                |   🟠     |
+| Interface utilisateur                                         |   🔴     |
+| Utilisation à distance                                        |   🔴
+
+                                                      
+CODE COULEUR : 
+
+- Très important : 🔴
+
+- Moyennement important : 🟠
+
+- Facultatif : 🟡
 
 
-  | Fonctions | Rôle                                                           | Critères               | Niveau d'exigence                                                    |
-|-----------|----------------------------------------------------------------|------------------------|----------------------------------------------------------------------|
-| FP1       |                                                                |                        |                                                                      |
-| FP2       |                                                                |                        |                                                                      |
-| FP3       |                                                                |                        |                                                                      |
-| FP4       |                                                                |                        |                                                                      |
-| FP5       |                                                                |                        |                    
-|           |                                                                |                        |                                                                      |
-| FS1       |                                                                 |                                                                                              |
-| FS2       |                                                                |                        |                                                                      |
-| FS3       |                                                                |                        |                                                                                                                                                          |   
+ - Surveillance de la consommation(mesure et affichage en temps réel de la consommation des appareils) 🔴
 
+- Analyse des habitudes de consommation(identifier les tendances de consommation et fournir des rapports sur la consommation) 🟠
+
+- Prédiction de la consommation future(prédire à l’aide des rapports la consommation puis ajuster la distribution en vue de l’optimisation de la consommation) 🟡
+
+- Contrôle de la distribution(activer ou désactiver l’alimentation de la distribution de certains appareils sur commande ) 🔴
+
+- Envoi d’alerte en cas de consommation anormale puis envoi de recommandations pour la régulation 🟠
+
+- Interface utilisateur(création d’une interface permettant à l’utilisateur de paramétrer ses préférences) 🔴
+
+- Utilisation à distance(permet de contrôler la distribution en électricité par internet à travers un site ou une application) 🔴
 
 ## 3. Analyse technique
 
