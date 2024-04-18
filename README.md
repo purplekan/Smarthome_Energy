@@ -70,6 +70,7 @@ CODE COULEUR :
 - Interface utilisateur(création d’une interface permettant à l’utilisateur de paramétrer ses préférences) 🔴
 
 - Utilisation à distance(permet de contrôler la distribution en électricité par internet à travers un site ou une application) 🔴
+  
 
 ## 3. Analyse technique
 
