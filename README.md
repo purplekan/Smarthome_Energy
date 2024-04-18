@@ -55,6 +55,7 @@ CODE COULEUR :
 
 - Facultatif : 🟡
 
+### Rôle des fonctionnalités
 
  - Surveillance de la consommation(mesure et affichage en temps réel de la consommation des appareils) 🔴
 
